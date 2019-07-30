@@ -1,0 +1,25 @@
+body {
+    background-image: url("../images/IMG_7203.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Poiret One";
+}
+
+.navbar-brand {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.navbar-nav {
+    font-size: 25px;
+}
+
+img {
+    float: left;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+p {
+    font-weight: bold;
+}
